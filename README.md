@@ -49,4 +49,4 @@ This project was developed collaboratively, incorporating user feedback and desi
 ---
 
 ## 🙏 Ending Notes
-This project was built by me and [@khushi2503](https://github.com/v1ggs-dev/) for the **PixxelHack Webathon**, organized by the **ACM-TCET student chapter**. It represents our passion for creating high-quality, modern web experiences and our dedication to the spirit of competition and innovation. 
+This project was built by me and [@v1ggs-dev](https://github.com/v1ggs-dev/) for the **PixxelHack Webathon**, organized by the **ACM-TCET student chapter**. It represents our passion for creating high-quality, modern web experiences and our dedication to the spirit of competition and innovation. 
